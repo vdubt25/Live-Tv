@@ -7,6 +7,9 @@
   <channel id="Vdub Ytube Channel List">
     <display-name lang="en">Vdub Ytube</display-name>
   </channel>
+  <channel id="Vdub Ytube Channel List only">
+    <display-name lang="en">EPSN 2</display-name>
+  </channel>
   <channel id="Setanta Sports">
     <display-name lang="en">Setanta Sports</display-name>
     <url>http://www.jkt.firstmedia.com</url>
@@ -462,6 +465,14 @@
   <programme start="20141008000000 +0100" stop="20141008235900 +0100" channel="Vdub Ytube Channel List">
     <title lang="en">Vdub Ytube list only</title>
     <desc lang="en">This is provided free of charge to the XBMC community, and NOT FOR SALE.(n)</desc>
+  </programme>
+  <programme start="20141007000000 +0100" stop="20141007235900 +0100" channel="Vdub Ytube Channel List only">
+    <title lang="en">This EPG provided by www.JSAT.tv</title>
+    <desc lang="en">This EPG is provided free of charge for the Vdub Ytube list only, no other list, and NOT FOR SALE.(n)</desc>
+  </programme>
+  <programme start="20141008000000 +0100" stop="20141008235900 +0100" channel="Vdub Ytube Channel List only">
+    <title lang="en">This EPG provided by www.JSAT.tv</title>
+    <desc lang="en">This EPG is provided free of charge for the Vdub Ytube list only, no other list, and NOT FOR SALE.(n)</desc>
   </programme>
   <programme start="20141007000000 +0700" stop="20141007005000 +0700" channel="National Geographic">
     <title lang="en">Drugs Inc</title>
@@ -4134,28 +4145,25 @@
     <title lang="en">Byren Leverkusen vs PaderBorn (R)</title>
     <sub-title lang="en">Bundesliga</sub-title>
   </programme>
-  <programme start="20141007101500 +0100" stop="20141007104500 +0100" channel="Bein Sports 6">
+  <programme start="20141007101500 +0100" stop="20141007110000 +0100" channel="Bein Sports 6">
     <title lang="en">World Of Athletics</title>
   </programme>
-  <programme start="20141007104500 +0100" stop="20141007111500 +0100" channel="Bein Sports 6">
-    <title lang="en">World Of Gymnastics</title>
-  </programme>
-  <programme start="20141007111500 +0100" stop="20141007141500 +0100" channel="Bein Sports 6">
+  <programme start="20141007110000 +0100" stop="20141007140000 +0100" channel="Bein Sports 6">
     <title lang="en">Artistic Gymnastic World Championship (L)</title>
   </programme>
-  <programme start="20141007141500 +0100" stop="20141007144500 +0100" channel="Bein Sports 6">
+  <programme start="20141007140000 +0100" stop="20141007143000 +0100" channel="Bein Sports 6">
     <title lang="en">Dream Team - Legends of Basketball</title>
   </programme>
-  <programme start="20141007144500 +0100" stop="20141007174500 +0100" channel="Bein Sports 6">
+  <programme start="20141007143000 +0100" stop="20141007173000 +0100" channel="Bein Sports 6">
     <title lang="en">Liverpool Club Channel</title>
   </programme>
-  <programme start="20141007174500 +0100" stop="20141007181500 +0100" channel="Bein Sports 6">
+  <programme start="20141007173000 +0100" stop="20141007180000 +0100" channel="Bein Sports 6">
     <title lang="en">World Of Athletics</title>
   </programme>
-  <programme start="20141007181500 +0100" stop="20141007184500 +0100" channel="Bein Sports 6">
-    <title lang="en">FINA</title>
+  <programme start="20141007180000 +0100" stop="20141007183000 +0100" channel="Bein Sports 6">
+    <title lang="en">Fina World Of Aquatics</title>
   </programme>
-  <programme start="20141007184500 +0100" stop="20141007213000 +0100" channel="Bein Sports 6">
+  <programme start="20141007183000 +0100" stop="20141007213000 +0100" channel="Bein Sports 6">
     <title lang="en">Artistic Gymnastic World Championship (R)</title>
   </programme>
   <programme start="20141007213000 +0100" stop="20141008003000 +0100" channel="Bein Sports 6">
@@ -4990,30 +4998,6 @@
     <title lang="en">Olympique Lyonnais vs Lille (R)</title>
     <sub-title lang="en">French League - Ligue 2</sub-title>
   </programme>
-  <programme start="20141007060000 +0100" stop="20141007091500 +0100" channel="BBC 1">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team  Including regional news at 25 and 55 minutes past each hour(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">News</category>
-    <episode-num system="onscreen">PPP</episode-num>
-    <subtitles />
-  </programme>
-  <programme start="20141007091500 +0100" stop="20141007100000 +0100" channel="BBC 1">
-    <title lang="en">Rip Off Britain</title>
-    <desc lang="en">The team expose disastrous problems with brand new properties(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S6E17PP17/20P</episode-num>
-    <subtitles />
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="BBC 1">
-    <title lang="en">Homes Under the Hammer</title>
-    <desc lang="en">Property renovation series A Cornish farmhouse with stunning coastal views, a garden flat in Essex and a grade two listed Georgian house in Kent all go under the hammer(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S18E43PPP</episode-num>
-    <subtitles />
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007114500 +0100" channel="BBC 1">
     <title lang="en">Saints and Scroungers</title>
     <sub-title lang="en">The Immigration Scammers</sub-title>
@@ -5394,37 +5378,6 @@
     <episode-num system="onscreen">S5E2PPP</episode-num>
     <subtitles />
   </programme>
-  <programme start="20141007082000 +0100" stop="20141007090500 +0100" channel="BBC 2">
-    <title lang="en">The Housing Enforcers</title>
-    <desc lang="en">Consumer programme Matt Allwright joins the ranks of Britain's housing officers Matt meets the father of one of Britain's largest families(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E7PPP</episode-num>
-  </programme>
-  <programme start="20141007090500 +0100" stop="20141007100500 +0100" channel="BBC 2">
-    <title lang="en">Antiques Roadshow</title>
-    <sub-title lang="en">Hillsborough Castle</sub-title>
-    <desc lang="en">The Antiques Roadshow returns for its 35th year, an occasion marked by a visit from Her Majesty the Queen to meet members of the team in Northern Ireland(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Antiques</category>
-    <episode-num system="onscreen">S37E1PP</episode-num>
-  </programme>
-  <programme start="20141007100500 +0100" stop="20141007103500 +0100" channel="BBC 2">
-    <title lang="en">Food &amp; Drink</title>
-    <sub-title lang="en">The Future of our Food</sub-title>
-    <desc lang="en">Guest chef Sat Bains demonstrates his take on a traditional bread and butter pudding, using cutting-edge culinary equipment(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S2E10PPP10/10</episode-num>
-  </programme>
-  <programme start="20141007103500 +0100" stop="20141007110000 +0100" channel="BBC 2">
-    <title lang="en">HARDtalk</title>
-    <desc lang="en">Interviews with newsmakers and personalities from across the globe Stephen Sackur speaks to General Lord Richards, who recently retired as Britain's top military chief(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">News</category>
-    <episode-num system="onscreen">PPP</episode-num>
-    <subtitles />
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="BBC 2">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international news, plus top interviews and analysis(n)</desc>
@@ -5770,33 +5723,6 @@
     <episode-num system="onscreen">PPP</episode-num>
     <subtitles />
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007092500 +0100" channel="ITV">
-    <title lang="en">Lorraine</title>
-    <desc lang="en">The Big Reunion supergroup 5th Story talk frankly about the boy band rivalries that destroyed them, and actress and writer Arabella Weir talks about her latest book(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Chat Show</category>
-    <episode-num system="onscreen">S5E199PPP</episode-num>
-  </programme>
-  <programme start="20141007092500 +0100" stop="20141007103000 +0100" channel="ITV">
-    <title lang="en">The Jeremy Kyle Show</title>
-    <desc lang="en">Jeremy Kyle deals with more dilemmas, fiery confrontations and topical issues all in front of a studio audience(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Chat Show</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007105500 +0100" channel="ITV">
-    <title lang="en">This Morning</title>
-    <desc lang="en">Presented by Amanda Holden and Phillip Schofield A look at the day's news headlines(n)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S27E230PPP</episode-num>
-  </programme>
-  <programme start="20141007105500 +0100" stop="20141007110000 +0100" channel="ITV">
-    <title lang="en">ITV News</title>
-    <desc lang="en">Nina Hossain with the latest headlines from around the world Followed by a local weather forecast(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">News</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007123000 +0100" channel="ITV">
     <title lang="en">This Morning</title>
     <desc lang="en">Presented by Amanda Holden and Phillip Schofield A look at the day's news headlines(n)</desc>
@@ -6062,38 +5988,6 @@
     <desc lang="en">Series in which Britain's worst learner drivers are paired with the UK's best instructors Today, a woman who hates going above 30mph, and a man with spatial awareness issues(n)</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="onscreen">S1E4PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Channel 4">
-    <title lang="en">Everybody Loves Raymond</title>
-    <sub-title lang="en">Sister-in-Law</sub-title>
-    <desc lang="en">Robert's wife Amy finds out that Ray thinks she talks too much(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S9E13PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Channel 4">
-    <title lang="en">Frasier</title>
-    <sub-title lang="en">Freudian Sleep</sub-title>
-    <desc lang="en">Frasier gets the wrong end of the stick when he overhears Martin inviting Eddie on his romantic weekend away with Ronee, and invites himself along(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S11E14PP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Channel 4">
-    <title lang="en">Frasier</title>
-    <sub-title lang="en">Caught in the Act</sub-title>
-    <desc lang="en">Frasier agrees to get Roz tickets for Alice to see child entertainer Nanny G, who also happens to be his ex-wife(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S11E15PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Channel 4">
-    <title lang="en">Frasier</title>
-    <sub-title lang="en">Boo!</sub-title>
-    <desc lang="en">Frasier dresses up as a clown as part of his plan to cure a patient of her clown phobia but ends up giving Martin a shock that leads him to make a major decision(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S11E16PP</episode-num>
   </programme>
   <programme start="20141007103000 +0100" stop="20141007113000 +0100" channel="Channel 4">
     <title lang="en">Undercover Boss Canada</title>
@@ -6503,45 +6397,6 @@
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">Features</category>
     <episode-num system="onscreen">S1E2PPP</episode-num>
-  </programme>
-  <programme start="20141007082500 +0100" stop="20141007083500 +0100" channel="Channel 5">
-    <title lang="en">Peppa Pig</title>
-    <sub-title lang="en">Funfair</sub-title>
-    <desc lang="en">Pig tales Peppa and her family head off for an exciting time at the funfair Mummy Pig tries to win a giant teddy for Peppa(n)</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Under 5</category>
-    <episode-num system="onscreen">S3E24PP</episode-num>
-  </programme>
-  <programme start="20141007083500 +0100" stop="20141007085000 +0100" channel="Channel 5">
-    <title lang="en">Toby's Travelling Circus</title>
-    <sub-title lang="en">The Wheel Inspector</sub-title>
-    <desc lang="en">Animation When a call comes through saying that the circus vehicles are to have their wheels inspected, Dolores gets Freddo and Clara to tell Toby(n)</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Under 5</category>
-    <episode-num system="onscreen">S1E7PP</episode-num>
-  </programme>
-  <programme start="20141007085000 +0100" stop="20141007090000 +0100" channel="Channel 5">
-    <title lang="en">Bananas In Pyjamas</title>
-    <sub-title lang="en">Bubbles</sub-title>
-    <desc lang="en">When Rat gets trapped inside a giant bubble, the Bananas must catch and pop it before he floats away forever(n)</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Under 5</category>
-    <episode-num system="onscreen">S1E44PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007091500 +0100" channel="Channel 5">
-    <title lang="en">Tickety Toc</title>
-    <sub-title lang="en">Race Time</sub-title>
-    <desc lang="en">Animation about two lively twins who live inside a cuckoo clock Hopparoo has beaten everyone in a race except for Tallulah(n)</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Under 5</category>
-    <episode-num system="onscreen">S1E31PP</episode-num>
-  </programme>
-  <programme start="20141007091500 +0100" stop="20141007111000 +0100" channel="Channel 5">
-    <title lang="en">The Wright Stuff</title>
-    <desc lang="en">Matthew Wright hosts the topical debate show(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">Features</category>
-    <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007111000 +0100" stop="20141007121000 +0100" channel="Channel 5">
     <title lang="en">Cowboy Builders</title>
@@ -7003,30 +6858,6 @@
     <category lang="en">Features</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Sky1">
-    <title lang="en">Futurama</title>
-    <sub-title lang="en">A Pharoah To Remember</sub-title>
-    <desc lang="en">Bender's longing to be remembered motivates him to become a tyrannical Pharaoh on Osiris 4(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <episode-num system="onscreen">S4E7PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky1">
-    <title lang="en">NCIS: Los Angeles</title>
-    <sub-title lang="en">Purity</sub-title>
-    <desc lang="en">The team must determine whether a murder case involving cyanide-laced water is an isolated incident or a test run for a large-scale contamination(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4E20PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Sky1">
-    <title lang="en">NCIS: Los Angeles</title>
-    <sub-title lang="en">Resurrection</sub-title>
-    <desc lang="en">Callen and co ponder the possibility that a mole is in their midst when the body of a Mexican cartel boss is snatched from a morgue in Tijuana(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4E21PP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Sky1">
     <title lang="en">Hawaii Five-0</title>
     <sub-title lang="en">Heihei (Race)</sub-title>
@@ -7400,41 +7231,6 @@
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S1E1PP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Sky Living">
-    <title lang="en">The Real A &amp; E</title>
-    <desc lang="en">Series exposing the reality of life and death in the UK's biggest A&amp;E department Paramedics race to the scene of a car crash and treat a woman who has put a knife through her hand(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S3E1PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Sky Living">
-    <title lang="en">RSPCA Animal Rescue</title>
-    <desc lang="en">Moving series following RSPCA workers across Australia as they work to help animals in need(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Sky Living">
-    <title lang="en">RSPCA Animal Rescue</title>
-    <desc lang="en">Moving series following RSPCA workers across Australia as they work to help animals in need(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Sky Living">
-    <title lang="en">Chopper Squad</title>
-    <desc lang="en">The helicopter rescue crew respond to an emergency involving a truck driver, who's smashed through the windscreen of his truck, and help a family in Port Charles(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S4E6PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Sky Living">
-    <title lang="en">Chopper Squad</title>
-    <desc lang="en">A massive motorcycle pile-up leaves and a man with a possible broken neck from a horse-riding accident requires the help of Rescue One helicopter squad(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S4E7PPP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Sky Living">
     <title lang="en">Border Security: Canada's...</title>
     <desc lang="en">Frontline New A Russian dissident's complicated past raises questions, and officers wonder why a Korean tourist would bring his CV and school diplomas on a vacation(n)</desc>
@@ -7797,30 +7593,6 @@
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S4E10PP</episode-num>
   </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Sky Atlantic">
-    <title lang="en">Star Trek: Enterprise</title>
-    <sub-title lang="en">Shadows Of P'jem</sub-title>
-    <desc lang="en">The crew are disappointed to learn that T'Pol has been ordered to leave the Enterprise, even more so when they see her own indifference to leaving(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Sci-Fi</category>
-    <episode-num system="onscreen">S1E15PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky Atlantic">
-    <title lang="en">Without A Trace</title>
-    <sub-title lang="en">Lost Time</sub-title>
-    <desc lang="en">Jack and Vivian revisit an old case when new evidence suggests that a college professor serving time for killing a student might be innocent, despite his confession(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4E4PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Sky Atlantic">
-    <title lang="en">Blue Bloods Season 2</title>
-    <sub-title lang="en">Critical Condition</sub-title>
-    <desc lang="en">Danny investigates a bungled bank robbery where one of the perpetrators is a former cop Plus, Jamie gets a new partner, Luis(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S2E3PP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Sky Atlantic">
     <title lang="en">House</title>
     <sub-title lang="en">Acceptance</sub-title>
@@ -8130,28 +7902,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S2E7PP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Watch">
-    <title lang="en">Choccywoccydoodah</title>
-    <sub-title lang="en">A Particular Passion</sub-title>
-    <desc lang="en">It's time for two weddings and a cakefest, as the team make jaw-dropping wedding cakes, including one modelled on a couple's pet ginger pigs(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S3E4PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Watch">
-    <title lang="en">The Bill</title>
-    <desc lang="en">DI Neil Manson receives an early morning telephone call from James Tennant PC Tony Stamp is accused of rape and arrested DC Suzie Sim announces that she's applied for another job(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S22E47PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Watch">
-    <title lang="en">The Bill</title>
-    <desc lang="en">A failed decoy operation to find the serial rapist puts Sun Hill back to square one - but then PC Tony Stamp uses his cabbie connections and arrests prime suspect Keith Durante(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S22E48PPP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Watch">
     <title lang="en">Extreme Makeover: Home Edition</title>
@@ -8494,54 +8244,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Sci-Fi</category>
     <episode-num system="onscreen">S1E5PP05/13</episode-num>
-  </programme>
-  <programme start="20141007075500 +0100" stop="20141007083500 +0100" channel="GOLD">
-    <title lang="en">Sorry!</title>
-    <sub-title lang="en">Bells for Uncle Barnstable</sub-title>
-    <desc lang="en">Timothy is warned to mind his language once more in Ronnie Corbett's classic sitcom Could church bells be ringing for Tim and his piano teacher?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S5E3PP</episode-num>
-  </programme>
-  <programme start="20141007083500 +0100" stop="20141007090500 +0100" channel="GOLD">
-    <title lang="en">Bewitched</title>
-    <sub-title lang="en">Aunt Clara's Victoria Victory</sub-title>
-    <desc lang="en">New to Gold Wacky American sitcom Larry almost loses an important client when Aunt Clara accidentally conjures up Queen Victoria(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S3E26PP</episode-num>
-  </programme>
-  <programme start="20141007090500 +0100" stop="20141007093500 +0100" channel="GOLD">
-    <title lang="en">I Dream of Jeannie</title>
-    <sub-title lang="en">Blackmail Order Bride</sub-title>
-    <desc lang="en">New to Gold Vintage laughs with Larry Hagman and Barbara Eden A reporter tries blackmail to get a scoop on Tony(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S4E26PP</episode-num>
-  </programme>
-  <programme start="20141007093500 +0100" stop="20141007101000 +0100" channel="GOLD">
-    <title lang="en">Happy Days</title>
-    <sub-title lang="en">Be My Valentine</sub-title>
-    <desc lang="en">New to Gold US sitcom Joanie is heartbroken and disillusioned when her date for the dance cancels on her, but a twist of fate soon restores her faith in true love(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S5E20PP</episode-num>
-  </programme>
-  <programme start="20141007101000 +0100" stop="20141007104500 +0100" channel="GOLD">
-    <title lang="en">Last of the Summer Wine</title>
-    <sub-title lang="en">The Woollen Mills of Your Mind</sub-title>
-    <desc lang="en">Long-running and hugely popular sitcom about three old men in Yorkshire In his latest scheme to impress Nora, Compo decides to become a marathon runner(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S8E5PP</episode-num>
-  </programme>
-  <programme start="20141007104500 +0100" stop="20141007112000 +0100" channel="GOLD">
-    <title lang="en">'Allo 'Allo!</title>
-    <sub-title lang="en">A Marriage of Inconvenience</sub-title>
-    <desc lang="en">Refreshingly politically incorrect comedy Rene's friends rally round to try and save him from his impending marriage to the leader of the Communists(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S5E6PP</episode-num>
   </programme>
   <programme start="20141007112000 +0100" stop="20141007120000 +0100" channel="GOLD">
     <title lang="en">Keeping Up Appearances</title>
@@ -8978,43 +8680,6 @@
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">S3E6PP</episode-num>
   </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Dave">
-    <title lang="en">Top Gear</title>
-    <desc lang="en">More motoring mayhem Jeremy and Richard tackle the interconnected issues of an ageing population and the complexity of modern cars by designing a vehicle for pensioners!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Motors</category>
-    <episode-num system="onscreen">S19E5PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Dave">
-    <title lang="en">Hairy Bikers' Cookbook</title>
-    <sub-title lang="en">Si and Dave Do Vietnam -</sub-title>
-    <desc lang="en">Dave Myers and Si King hit the road again on a culinary odyssey In Vietnam, they cook shrimp and pork on sugar cane, and get the goat(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S2E1P1P</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Dave">
-    <title lang="en">Hairy Bikers' Cookbook</title>
-    <sub-title lang="en">Si and Dave Do Vietnam -</sub-title>
-    <desc lang="en">Dave Myers and Si King hit the road again in search of culinary experience In Hanoi, they try a mouthwatering buffet and a street food surprise(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S2E2P2P</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Dave">
-    <title lang="en">Trawlermen</title>
-    <desc lang="en">Wind-lashed documentary series about trawler fishing off Peterhead, Scotland Chaz Bruce finds a rope wrapped around the New Dawn's propeller but is reluctant to put into port(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">Features</category>
-    <episode-num system="onscreen">S3E3PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Dave">
-    <title lang="en">Trawlermen</title>
-    <desc lang="en">Discover the harsh realities of trawler fishing off Peterhead, Scotland John Alexander, alone on his boat, finds himself in trouble when the weather turns and the seas run high(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">Features</category>
-    <episode-num system="onscreen">S3E4PPP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Dave">
     <title lang="en">Top Gear USA Special</title>
     <desc lang="en">The fun-packed petrolhead show, hosted by Jeremy Clarkson The chaps try to prove that a fly-drive holiday to Florida is more fun if you buy a car rather than rent one(n)</desc>
@@ -9403,62 +9068,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Game Shows</category>
     <episode-num system="onscreen">S44E5PPP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007083500 +0100" channel="ComedyCentral">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title lang="en">Peggy's New Beau</sub-title>
-    <desc lang="en">Exclusive to Comedy Central Mike feels pressured when Peggy's new boyfriend asks whether he and Molly hear wedding bells in their future(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S1E24PP</episode-num>
-  </programme>
-  <programme start="20141007083500 +0100" stop="20141007090000 +0100" channel="ComedyCentral">
-    <title lang="en">Mike &amp; Molly</title>
-    <sub-title lang="en">Goin' Fishin'</sub-title>
-    <desc lang="en">After their engagement, trouble arises when Molly wants to start planning their wedding, while Mike wants to go fishing with the guys(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S2E1PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="ComedyCentral">
-    <title lang="en">Rules Of Engagement</title>
-    <sub-title lang="en">Beating The System</sub-title>
-    <desc lang="en">Jeff gets a rude awakening when he assumes that the surrogate pregnancy will give him the best of both worlds Timmy takes over as planner for Adam and Jennifer's wedding(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S5E20PP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="ComedyCentral">
-    <title lang="en">Rules Of Engagement</title>
-    <sub-title lang="en">The Jeff Photo</sub-title>
-    <desc lang="en">Jeff tries to regain his youthful appearance after discovering an old photograph of himself, which encourages Adam to take a current photo of himself(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S5E21PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="ComedyCentral">
-    <title lang="en">Two And A Half Men</title>
-    <sub-title lang="en">Grandma's Pie</sub-title>
-    <desc lang="en">Walden is worried about how Zoe will react to his new business venture with his ex-wife, while Alan and Lyndsey have to contend with their mothers' blossoming relationship(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S9E20PP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="ComedyCentral">
-    <title lang="en">Two And A Half Men</title>
-    <sub-title lang="en">Mr Hose Says 'Yes'</sub-title>
-    <desc lang="en">Walden and Zoe decide to have a trial run living together Luckily for Alan, Lyndsey is happy for him to stay with her Though this comes at a price(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S9E21PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="ComedyCentral">
-    <title lang="en">Two And A Half Men</title>
-    <sub-title lang="en">Why We Gave Up Women</sub-title>
-    <desc lang="en">When Alan finds out he can't move back into Walden's his heart doesn't take the news too well - will this lead to a change in life outlook? Kathy Bates guest-stars(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S9E22PP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="ComedyCentral">
     <title lang="en">Two And A Half Men</title>
@@ -9986,30 +9595,6 @@
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">S9E24PP</episode-num>
   </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Universal">
-    <title lang="en">Quincy</title>
-    <sub-title lang="en">Even Odds</sub-title>
-    <desc lang="en">It's up to Sam, Dr Asten and Lt Monaghan to find the culprit after Quincy is seriously wounded whilst working on a case(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S4E6PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Universal">
-    <title lang="en">Cold Case</title>
-    <sub-title lang="en">Triple Threat</sub-title>
-    <desc lang="en">The detectives are prompted to reopen another old case, the 1989 murder of a Russian opera singer, by the rediscovery of her missing bag(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S6E8PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Universal">
-    <title lang="en">Numb3rs</title>
-    <sub-title lang="en">Noisy Edge</sub-title>
-    <desc lang="en">FBI agent and his brother Charlie investigate a possible terrorist plot when a mysterious object is reported flying over the city(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1E12PP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Universal">
     <title lang="en">Sea Patrol</title>
     <sub-title lang="en">Through the Storm</sub-title>
@@ -10304,13 +9889,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Detective</category>
     <episode-num system="onscreen">S8E13PP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007110000 +0100" channel="Syfy">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Teleshopping(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Syfy">
     <title lang="en">A Town Called Eureka</title>
@@ -10983,37 +10561,6 @@
     <episode-num system="onscreen">S29E1PP1/12P</episode-num>
     <subtitles />
   </programme>
-  <programme start="20141007081500 +0100" stop="20141007091500 +0100" channel="ITV2">
-    <title lang="en">The Cube</title>
-    <desc lang="en">Ballet dancer Hannah hopes she can win to pay for her forthcoming wedding Support worker Nic thinks he has what it takes to get his hands on that quarter of a million pounds(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Shows</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007091500 +0100" stop="20141007101500 +0100" channel="ITV2">
-    <title lang="en">Winners &amp; Losers</title>
-    <sub-title lang="en">Those People in the Paper</sub-title>
-    <desc lang="en">Australian drama series As Frances, Sophie and Bec celebrate their lottery win, Jenny is none too pleased that she missed out(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1E2PP</episode-num>
-  </programme>
-  <programme start="20141007101500 +0100" stop="20141007104500 +0100" channel="ITV2">
-    <title lang="en">Ben &amp; Kate</title>
-    <sub-title lang="en">Bad Cop/Bad Cop</sub-title>
-    <desc lang="en">US sitcom about a brother and sister who are exact opposites In the second episode, Kate lies to get daughter Maddie into a better school(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S1E2PP</episode-num>
-  </programme>
-  <programme start="20141007104500 +0100" stop="20141007111000 +0100" channel="ITV2">
-    <title lang="en">Up All Night</title>
-    <sub-title lang="en">Cool Neighbors</sub-title>
-    <desc lang="en">New US sitcom In the second episode, Reagan and Chris become obsessed with their cool new neighbours, while Ava is annoyed that baby Amy seems to dislike her(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S1E2PP</episode-num>
-  </programme>
   <programme start="20141007111000 +0100" stop="20141007121500 +0100" channel="ITV2">
     <title lang="en">Royal Pains</title>
     <sub-title lang="en">Pilot</sub-title>
@@ -11327,32 +10874,6 @@
     <category lang="en">Game Shows</category>
     <episode-num system="onscreen">S1E3PPP</episode-num>
   </programme>
-  <programme start="20141007082500 +0100" stop="20141007093500 +0100" channel="ITV3">
-    <title lang="en">The Return of Sherlock Holmes</title>
-    <sub-title lang="en">The Devil's Foot</sub-title>
-    <desc lang="en">When Holmes is forced to take a recuperative break, a murder soon gives him the chance to alleviate his boredom(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S2E1PP</episode-num>
-  </programme>
-  <programme start="20141007093500 +0100" stop="20141007100000 +0100" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">New York City's outspoken family court judge Judy Sheindlin presides over a series of real-life cases and conflicts, trying to find solutions for all kinds of family issues(n)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007102500 +0100" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">Judge Judy Sheindlin, a former judge from New York, tackles real-life small claims cases in which damages of no more than $5,000 can be awarded(n)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007102500 +0100" stop="20141007105500 +0100" channel="ITV3">
-    <title lang="en">Judge Judy</title>
-    <desc lang="en">Judge Judy Sheindlin, a former judge from New York, tackles real-life small claims cases in which damages of no more than $5,000 can be awarded(n)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007105500 +0100" stop="20141007130500 +0100" channel="ITV3">
     <title lang="en">Inspector Morse</title>
     <sub-title lang="en">The Silent World of Nicholas Quinn</sub-title>
@@ -11641,38 +11162,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S2E6PPP</episode-num>
-  </programme>
-  <programme start="20141007075500 +0100" stop="20141007085500 +0100" channel="ITV4">
-    <title lang="en">The Professionals</title>
-    <sub-title lang="en">Servant of Two Masters</sub-title>
-    <desc lang="en">Bodie and Doyle are incredulous when their boss steals a lethal new nerve gas and starts sales negotiations with a foreign power(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S3E8PP</episode-num>
-  </programme>
-  <programme start="20141007085500 +0100" stop="20141007095500 +0100" channel="ITV4">
-    <title lang="en">Kojak</title>
-    <sub-title lang="en">Cop in a Cage</sub-title>
-    <desc lang="en">Police drama Just when he should be looking forward to his niece's wedding, Kojak begins receiving threats against his life from a man he helped send to prison(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <episode-num system="onscreen">S1E10PP</episode-num>
-  </programme>
-  <programme start="20141007095500 +0100" stop="20141007105500 +0100" channel="ITV4">
-    <title lang="en">Magnum P.I.</title>
-    <sub-title lang="en">All for One -</sub-title>
-    <desc lang="en">Detective series As the team pursue their search for their friend in Cambodia, they soon realise that their lives are also in danger(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S5E16P2P</episode-num>
-  </programme>
-  <programme start="20141007105500 +0100" stop="20141007112500 +0100" channel="ITV4">
-    <title lang="en">Pawn Stars</title>
-    <sub-title lang="en">Pezzed Off</sub-title>
-    <desc lang="en">A Pez collector offers Corey and Chum 50 plastic pieces of Americana, and the men puzzle over a mystery inscription on a coaching gun Will its meaning reveal its worth?(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">Features</category>
-    <episode-num system="onscreen">S2E14PP</episode-num>
   </programme>
   <programme start="20141007112500 +0100" stop="20141007115500 +0100" channel="ITV4">
     <title lang="en">Pawn Stars</title>
@@ -12001,34 +11490,6 @@
     <category lang="en">Movies</category>
     <category lang="en">Thriller</category>
     <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Sky2">
-    <title lang="en">RSPCA Animal Rescue</title>
-    <desc lang="en">Moving series following RSPCA workers across Australia as they work to help animals in need(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky2">
-    <title lang="en">A Different Breed</title>
-    <desc lang="en">Essex girl Louise searches for the perfect groom for Lola and stumbles upon Britain's ugliest mutt, Mugly Plus, Anna and Jo enjoy high tea with fellow dog lover Julian Clary(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E3PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Sky2">
-    <title lang="en">Sun, Sea And A&amp;E</title>
-    <desc lang="en">Documentary series following the misfortunes of British holidaymakers who find themselves recuperating in hospital rather than soaking up the sun(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Sky2">
-    <title lang="en">Airline</title>
-    <desc lang="en">It's a busy day at Luton and Liverpool, but Leo Jones is all dressed up for easyJet's Christmas party Will he win back his ex-girlfriend, Mel, after their recent split?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S7E3P3/12PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Sky2">
     <title lang="en">The Real A &amp; E</title>
@@ -12373,41 +11834,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <episode-num system="onscreen">S2E4PP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Sky Livingit">
-    <title lang="en">Four Weddings</title>
-    <desc lang="en">A bride from Gloucestershire tries to impress her pernickety rivals to gain enough points to win the ultimate honeymoon(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky Livingit">
-    <title lang="en">Liza And Huey's Pet Nation</title>
-    <desc lang="en">This week, comedian Joe Pasquale joins Liza and Huey on the Pet Nation sofa, along with Jo Jo his African Grey Parrot and Gypsy his German Shepherd(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E7PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Sky Livingit">
-    <title lang="en">Emergency Animal Rescue</title>
-    <desc lang="en">Follow RSPCA workers across England and Wales as they tackle issues of animal cruelty and go about their daily mission to protect the nation's furry friends(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E15PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Sky Livingit">
-    <title lang="en">Emergency Animal Rescue</title>
-    <desc lang="en">Follow RSPCA workers across England and Wales as they tackle issues of animal cruelty and go about their daily mission to protect the nation's furry friends(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E16PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Sky Livingit">
-    <title lang="en">Animal House</title>
-    <desc lang="en">Documentary series shining a spotlight on the staff at SPCA Auckland, who dedicate their days to the care and protection of the region's animals(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E7PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Sky Livingit">
     <title lang="en">Puppy SOS</title>
@@ -12783,48 +12209,6 @@
     <category lang="en">Factual</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Sky Living+1">
-    <title lang="en">Nothing To Declare</title>
-    <desc lang="en">Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Sky Living+1">
-    <title lang="en">The Real A &amp; E</title>
-    <desc lang="en">The RAF come to the rescue when an 18 year old falls 200 feet down a cliff in Yorkshire Elsewhere a mountain biker crashes off his bike on a remote woodland track(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S2E20PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Sky Living+1">
-    <title lang="en">The Real A &amp; E</title>
-    <desc lang="en">Series exposing the reality of life and death in the UK's biggest A&amp;E department Paramedics race to the scene of a car crash and treat a woman who has put a knife through her hand(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S3E1PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Sky Living+1">
-    <title lang="en">RSPCA Animal Rescue</title>
-    <desc lang="en">Moving series following RSPCA workers across Australia as they work to help animals in need(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Sky Living+1">
-    <title lang="en">RSPCA Animal Rescue</title>
-    <desc lang="en">Moving series following RSPCA workers across Australia as they work to help animals in need(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Sky Living+1">
-    <title lang="en">Chopper Squad</title>
-    <desc lang="en">The helicopter rescue crew respond to an emergency involving a truck driver, who's smashed through the windscreen of his truck, and help a family in Port Charles(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S4E6PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Sky Living+1">
     <title lang="en">Chopper Squad</title>
     <desc lang="en">A massive motorcycle pile-up leaves and a man with a possible broken neck from a horse-riding accident requires the help of Rescue One helicopter squad(n)</desc>
@@ -13184,29 +12568,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Detective</category>
     <episode-num system="onscreen">S4E6PP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="FOX">
-    <title lang="en">Medium</title>
-    <desc lang="en">Allison's step brother Michael returns from duty in Iraq But Allison can see that he is being haunted by a ghost and it's possible Michael also has the gift(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1E8PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="FOX">
-    <title lang="en">Leverage</title>
-    <sub-title lang="en">The Three Strikes Job</sub-title>
-    <desc lang="en">The team take advantage of a crooked politician's love of baseball to take him down, but end up with more than they expect(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S2E14PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="FOX">
-    <title lang="en">Burn Notice</title>
-    <sub-title lang="en">Down Range</sub-title>
-    <desc lang="en">Season 7, Episode 3 Sam and Jesse head to the Dominican Republic to help with Michael's undercover mission(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S7E3PP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="FOX">
     <title lang="en">Law And Order: Criminal Intent</title>
@@ -13582,34 +12943,6 @@
     <category lang="en">Animation</category>
     <episode-num system="onscreen">S2E4PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="MTV">
-    <title lang="en">Friendzone</title>
-    <desc lang="en">Alex is a newly out of the closet guy hoping for a "chance at love" with best friend Anthony Dan puts himself and his whole group of friends on the line to confess his crush on best friend Katie(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E4PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="MTV">
-    <title lang="en">Plain Jane</title>
-    <desc lang="en">Little Lifeguard Jen feels invisible  Fashion expert Louise Roe steps in to help her stand out from the crowd!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S3E2PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="MTV">
-    <title lang="en">Catfish: The TV Show</title>
-    <desc lang="en">Trina is a dancer who always had trouble meeting trustworthy guys, until she met Scorpio, a fellow dancer, online Will Trina finally get to rendezvous with the only man she's ever loved?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E2PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="MTV">
-    <title lang="en">The Ex and The Why</title>
-    <desc lang="en">Chelsea's willing to risk her marriage to see if her ex still has feelings for her Charlotte was too busy with school so her boyfriend Garrett broke up with her She wants another chance(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E13PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007130000 +0100" channel="MTV">
     <title lang="en">Teen Mom 2</title>
     <desc lang="en">Chelsea's dad tries to cut Adam out of her life, Jenelle is arrested for breaking and entering, Kailyn signs a joint custody agreement and Leah and Corey tie the knot Last in the series(n)</desc>
@@ -13917,38 +13250,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">S4E4PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="E4">
-    <title lang="en">Happy Endings</title>
-    <sub-title lang="en">The Kerkovich Way</sub-title>
-    <desc lang="en">Alex tries to convince Dave that they never spent the night together, asking Jane to help her out with an alibi, and confusing Brad in the process(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S2E17PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="E4">
-    <title lang="en">Rules of Engagement</title>
-    <sub-title lang="en">Atlantic City</sub-title>
-    <desc lang="en">Audrey tries to make Jeff feel guilty for not telling her that his friend's stag party in Atlantic City was cancelled at the last moment(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S4E3PP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="E4">
-    <title lang="en">Melissa &amp; Joey</title>
-    <sub-title lang="en">Do As I Say, Not As I Did</sub-title>
-    <desc lang="en">Lennox plans to go to an all-night party with her boyfriend Holly grows jealous when she and Ryder allow another girl into their study group(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">S1E29PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="E4">
-    <title lang="en">Charmed</title>
-    <sub-title lang="en">Carpe Demon</sub-title>
-    <desc lang="en">When Paige attempts to hire a new professor for the magic school, she learns that one of the candidates is a former demon who made a deal with a sorcerer to become human(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S7E14PP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="E4">
     <title lang="en">Marvel's Agents of S.H.I.E.L.D.</title>
@@ -14422,20 +13723,6 @@
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S1E4PPP</episode-num>
   </programme>
-  <programme start="20141007070000 +0100" stop="20141007085500 +0100" channel="More4">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Teleshopping(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007085500 +0100" stop="20141007100000 +0100" channel="More4">
-    <title lang="en">Relocation, Relocation</title>
-    <desc lang="en">Kirstie Allsopp and Phil Spencer take on Phil's dream search - hunting for a home with a pub attached for David and Alison, who want to make a new life following David's redundancy(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="onscreen">S9E8PPP</episode-num>
-  </programme>
   <programme start="20141007100000 +0100" stop="20141007114500 +0100" channel="More4">
     <title lang="en">The River's Edge</title>
     <desc lang="en">Ray Milland plays a bank robber with a suitcase full of cash who forces his old flame and her new husband  to guide him through the desert to Mexico(n)</desc>
@@ -14705,35 +13992,6 @@
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">Features</category>
     <episode-num system="onscreen">S3E3PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="DMAX">
-    <title lang="en">Cash Cab: After Dark</title>
-    <desc lang="en">When unsuspecting members of the public hail the cash cab, they are plunged into a game show Will they have enough general knowledge to win big en route to their destination?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E8PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="DMAX">
-    <title lang="en">Driving Me Crazy</title>
-    <desc lang="en">Adrienne is hoping her big sister Sarah can help her to learn to drive, while Michael is relying on his future father-in-law to teach him(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E6PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="DMAX">
-    <title lang="en">Mythbusters</title>
-    <sub-title lang="en">Blue Ice</sub-title>
-    <desc lang="en">Adam and Jamie tackle an explosive movie myth about magazines and toasters, while Kari, Grant and Tory hit the skies to explore the mystery of destructive Blue Ice(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S10E2PP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="DMAX">
-    <title lang="en">Operation Repo</title>
-    <desc lang="en">Ronnie and Carlos argue with a gas-station clerk who has nothing to lose Matt and Carlos chase a biker who has run away from Matt twice before, but will they catch their woman?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="DMAX">
     <title lang="en">Operation Repo</title>
@@ -15050,34 +14308,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <episode-num system="onscreen">S1E3PP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007093000 +0100" channel="Challenge">
-    <title lang="en">Golden Balls</title>
-    <desc lang="en">In a game of truth and bluff, contestants try to find which of the 100 golden balls conceal life-changing amounts of cash and which contain the dreaded killer balls(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Shows</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007103000 +0100" channel="Challenge">
-    <title lang="en">The Chase</title>
-    <desc lang="en">Bradley Walsh hosts the game show that asks contestants to complete a series of general knowledge questions faster than The Chaser, a brainbox of the highest order(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Challenge">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Dale Winton hosts this supermarket-based favourite The next time you're at the checkout counter and you hear the beep(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Shows</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Challenge">
-    <title lang="en">Celebrity Squares</title>
-    <desc lang="en">Quiz master Bob Monkhouse presents the noughts and crosses game with a twist Celebrities answer questions to help the contestants build a winning line(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Challenge">
     <title lang="en">Play Your Cards Right</title>
@@ -15407,34 +14637,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007060000 +0100" stop="20141007090000 +0100" channel="CBS Reality">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Innovative, value-for-money products brought directly to you at home Shop 'til you drop whilst avoiding the hustle and bustle of the High Street(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="CBS Reality">
-    <title lang="en">Cops</title>
-    <desc lang="en">Groundbreaking reality series featuring real cops on patrol and the real criminals they contend with every day, following dozens of domestic law enforcement agencies in over 140 US cities(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S21E16PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="CBS Reality">
-    <title lang="en">Cops</title>
-    <desc lang="en">Groundbreaking reality series featuring real cops on patrol and the real criminals they contend with every day, following dozens of domestic law enforcement agencies in over 140 US cities(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S21E17PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="CBS Reality">
-    <title lang="en">Hoarders</title>
-    <desc lang="en">Fascinating series chronicling the lives of serial hoarders Often facing loss of their children, career, or divorce, can people with this disorder be helped?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S6E3PPP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="CBS Reality">
     <title lang="en">Cheaters</title>
@@ -15823,27 +15025,6 @@
     <category lang="en">Factual</category>
     <episode-num system="onscreen">S4E20PPP</episode-num>
   </programme>
-  <programme start="20141007060000 +0100" stop="20141007090000 +0100" channel="CBS Action">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Put the pleasure back into shopping from the comfort of your home and choose from a selection of innovative products(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="CBS Action">
-    <title lang="en">The Streets of San Francisco</title>
-    <desc lang="en">A pair of plainclothes homicide detectives, cruise the streets of San Francisco solving crimes Add Karl Malden, Michael Douglas and a killer theme tune and you have a classic(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <episode-num system="onscreen">S1E12PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="CBS Action">
-    <title lang="en">Hawaii Five-O</title>
-    <desc lang="en">Popular American police drama starring Jack Lord and James MacArthur McGarrett convinces a family to have a body exhumed in order to bring down CL Fremont, the quack who's duping his sister(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Action</category>
-    <episode-num system="onscreen">S1E22PPP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="CBS Action">
     <title lang="en">Star Trek: The Next Generation</title>
     <desc lang="en">The new USS Enterprise and its crew boldly go where no man has gone before Data experiments with love by pursuing a romantic relationship with a fellow crew member(n)</desc>
@@ -16095,40 +15276,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Action</category>
     <episode-num system="onscreen">S8E3PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="PICK TV">
-    <title lang="en">6ixth Sense With Colin Fry</title>
-    <desc lang="en">One of Britain's most successful spiritualist mediums, Colin Fry, attempts to make contact with the other side in front of an expectant studio audience(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="PICK TV">
-    <title lang="en">Psychic Sally On The Road</title>
-    <desc lang="en">Sally meets former Hollyoaks actor Marcus Patrick to give him a private reading, as cameras continue to follow the medium on her UK tour Entertainment series(n)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S3E6PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="PICK TV">
-    <title lang="en">Motorway Patrol</title>
-    <desc lang="en">Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="PICK TV">
-    <title lang="en">Motorway Patrol</title>
-    <desc lang="en">Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="PICK TV">
-    <title lang="en">Nothing To Declare</title>
-    <desc lang="en">Fly-on-the-wall documentary following the men and women who defend Australia from drug runners, smugglers and terrorists(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="PICK TV">
     <title lang="en">Nothing To Declare</title>
@@ -16493,40 +15640,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <episode-num system="onscreen">S2E2PPP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="PICK TV+1">
-    <title lang="en">60 Minute Makeover</title>
-    <desc lang="en">Claire Sweeney presents a design series in which the team has just one hour to improve a home with a makeover(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Home</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="PICK TV+1">
-    <title lang="en">6ixth Sense With Colin Fry</title>
-    <desc lang="en">One of Britain's most successful spiritualist mediums, Colin Fry, attempts to make contact with the other side in front of an expectant studio audience(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="PICK TV+1">
-    <title lang="en">6ixth Sense With Colin Fry</title>
-    <desc lang="en">One of Britain's most successful spiritualist mediums, Colin Fry, attempts to make contact with the other side in front of an expectant studio audience(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="PICK TV+1">
-    <title lang="en">Psychic Sally On The Road</title>
-    <desc lang="en">Sally meets former Hollyoaks actor Marcus Patrick to give him a private reading, as cameras continue to follow the medium on her UK tour Entertainment series(n)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="onscreen">S3E6PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="PICK TV+1">
-    <title lang="en">Motorway Patrol</title>
-    <desc lang="en">Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="PICK TV+1">
     <title lang="en">Motorway Patrol</title>
@@ -16897,30 +16010,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Drama">
-    <title lang="en">Lovejoy</title>
-    <sub-title lang="en">The Sting</sub-title>
-    <desc lang="en">More capers with the charming antiques dealer and ladies' man! When Lovejoy is conned out of some figurines by his landlord, he is determined to exact his revenge(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1E3PP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Drama">
-    <title lang="en">Bergerac</title>
-    <sub-title lang="en">Relative Values</sub-title>
-    <desc lang="en">Mystery solving with the tough cop keeping order on the small isle of Jersey Jim tries to discover who murdered Henry Bernard, the meanest millionaire on the island(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S1E9PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Drama">
-    <title lang="en">Casualty</title>
-    <sub-title lang="en">Merry Christmas Dr Spiller</sub-title>
-    <desc lang="en">More A and E bedlam in the popular hospital drama Patrick and Holly are stranded together in a snow-bound Holby, and Duffy's pregnancy is revealed(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">S15E17PP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Drama">
     <title lang="en">The Bill</title>
@@ -17440,13 +16529,6 @@
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S2E2PP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="5*">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Teleshopping(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PP</episode-num>
-  </programme>
   <programme start="20141007090000 +0100" stop="20141007130000 +0100" channel="5*">
     <title lang="en">Jewellery Maker - Teleshopping</title>
     <desc lang="en">Ever wanted to handcraft your own jewellery? Our friendly presenters and Guest Designers will show you how to master a variety of techniques through easy to follow, step by step tutorials(n)</desc>
@@ -17737,48 +16819,6 @@
     <desc lang="en">A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Showcase">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Products and equipment for everyday use(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Showcase">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Products and equipment for everyday use(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Showcase">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Equipment and products for everyday use(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Showcase">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Products and equipment for everyday use(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Showcase">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Products and equipment for everyday use(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Showcase">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Products and equipment for everyday use(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Showcase">
@@ -18227,34 +17267,6 @@
     <category lang="en">Arts</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007060000 +0100" stop="20141007090000 +0100" channel="Reality TV">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Innovative, value-for-money products brought directly to you at home Shop 'til you drop whilst avoiding the hustle and bustle of the High Street(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Reality TV">
-    <title lang="en">Cops</title>
-    <desc lang="en">Groundbreaking reality series featuring real cops on patrol and the real criminals they contend with every day, following dozens of domestic law enforcement agencies in over 140 US cities(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Reality TV">
-    <title lang="en">Cops</title>
-    <desc lang="en">Groundbreaking reality series featuring real cops on patrol and the real criminals they contend with every day, following dozens of domestic law enforcement agencies in over 140 US cities(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Reality TV">
-    <title lang="en">Hoarders</title>
-    <desc lang="en">Fascinating series chronicling the lives of serial hoarders Often facing loss of their children, career, or divorce, can people with this disorder be helped?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Reality TV">
     <title lang="en">Cheaters</title>
     <desc lang="en">In this episode of the addictive reality show, Lacy learns of her boyfriend's two-faced antics and wastes no time in confronting her cheating partner Hosted by Joey Greco(n)</desc>
@@ -18596,57 +17608,6 @@
     <desc lang="en">Relax this evening while our psychics and presenters discuss a variety of topics and offer guidance  Text or call to get involved and get your own personal insight(n)</desc>
     <category lang="en">Specialist</category>
     <category lang="en">Gaming</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007085500 +0100" channel="OH TV">
-    <title lang="en">Brother Fire</title>
-    <desc lang="en">Depicting the life of St Francis of Assisi, the Monk who spoke to everyone's heart, especially the young, at a time when the world was by no means a peaceful place to live in(n)</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Cartoons</category>
-    <episode-num system="onscreen">PP23/26P</episode-num>
-  </programme>
-  <programme start="20141007085500 +0100" stop="20141007090000 +0100" channel="OH TV">
-    <title lang="en">Open Heavens Reflections</title>
-    <desc lang="en">Peace And Holiness Open Heavens Reflection for the month of October 2014(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="OH TV">
-    <title lang="en">The OH Music Show</title>
-    <desc lang="en">Who is bringing it this week? We've got the ultimate playlist for you now on OH Music, so what are you waiting for? Find out right now what the freshest videos are(n)</desc>
-    <category lang="en">Music &amp; Radio</category>
-    <category lang="en">Soul/R+B</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="OH TV">
-    <title lang="en">National Geographic Live</title>
-    <desc lang="en">Exploring the world around us in all its glory from the bottom of the seas, to the top of the highest mountain and everything in between(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">Educational</category>
-    <episode-num system="onscreen">PPP</episode-num>
-    <premiere />
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="OH TV">
-    <title lang="en">National Geographic Live</title>
-    <desc lang="en">Exploring the world around us in all its glory from the bottom of the seas, to the top of the highest mountain and everything in between(n)</desc>
-    <category lang="en">News &amp; Documentaries</category>
-    <category lang="en">Educational</category>
-    <episode-num system="onscreen">PPP</episode-num>
-    <premiere />
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="OH TV">
-    <title lang="en">The OH Worship Show</title>
-    <desc lang="en">Contemporary and traditional praise and worship music videos(n)</desc>
-    <category lang="en">Music &amp; Radio</category>
-    <category lang="en">Religious</category>
-    <episode-num system="onscreen">PP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="OH TV">
-    <title lang="en">Developing Leaders</title>
-    <desc lang="en">Inspiring messages by Dr Sola Fola Alade from the Discovery Centre in London(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007115500 +0100" channel="OH TV">
@@ -19092,13 +18053,6 @@
     <category lang="en">Lifestyle</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007080000 +0100" stop="20141007110000 +0100" channel="Syfy HD">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Teleshopping(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Syfy HD">
     <title lang="en">A Town Called Eureka</title>
     <sub-title lang="en">Here Comes the Suns</sub-title>
@@ -19353,34 +18307,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Drama</category>
     <episode-num system="onscreen">S1E18PP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="MTV HD">
-    <title lang="en">Friendzone</title>
-    <desc lang="en">Alex is a newly out of the closet guy hoping for a "chance at love" with best friend Anthony Dan puts himself and his whole group of friends on the line to confess his crush on best friend Katie(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E4PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="MTV HD">
-    <title lang="en">Plain Jane</title>
-    <desc lang="en">Little Lifeguard Jen feels invisible  Fashion expert Louise Roe steps in to help her stand out from the crowd!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S3E2PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="MTV HD">
-    <title lang="en">Catfish: The TV Show</title>
-    <desc lang="en">Trina is a dancer who always had trouble meeting trustworthy guys, until she met Scorpio, a fellow dancer, online Will Trina finally get to rendezvous with the only man she's ever loved?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E2PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="MTV HD">
-    <title lang="en">The Ex and The Why</title>
-    <desc lang="en">Chelsea's willing to risk her marriage to see if her ex still has feelings for her Charlotte was too busy with school so her boyfriend Garrett broke up with her She wants another chance(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">S1E13PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007130000 +0100" channel="MTV HD">
     <title lang="en">Teen Mom 2</title>
@@ -19690,41 +18616,6 @@
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">S4E4PPP</episode-num>
   </programme>
-  <programme start="20141007030000 +0100" stop="20141007090000 +0100" channel="Travel Channel">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Teleshopping(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Travel Channel">
-    <title lang="en">Floyd on Britain &amp; Ireland</title>
-    <desc lang="en">Norfolk: Keith Floyd continues his culinary trek around Britain and Ireland with a visit to East Anglia, where he catches and cooks brown shrimps(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Travel Channel">
-    <title lang="en">Floyd on Britain &amp; Ireland</title>
-    <desc lang="en">Orkneys: Keith Floyd rounds off his tour of Britain and Ireland in the beautiful Orkney Islands in the final episode of the series(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Travel Channel">
-    <title lang="en">America's Dark Secrets...</title>
-    <desc lang="en">Declassified: John Wayne Cancer, Pensmore Mansion, Jamestown: Investigators probe deeply inside hidden sectors, unearthing secrets, mysteries and bizarre conspiracy theories(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Travel Channel">
-    <title lang="en">Baggage Battles</title>
-    <desc lang="en">Bad Blood: Laurence, Sally, Billy and Mark are attracted by an estate sale in Red Hook, New York, an affluent and beautiful town in the north-western corner of Dutchess County(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Travel Channel">
     <title lang="en">Baggage Battles</title>
     <desc lang="en">Miami: Mark, Billy, Laurence and Sally visit Miami in order to bid against each other, as well as many other buyers, on lost luggage from all over the world(n)</desc>
@@ -20020,48 +18911,6 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Travel</category>
     <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007090000 +0100" channel="Food Network">
-    <title lang="en">Kitchen Cousins</title>
-    <desc lang="en">Kitchen Cousins Anthony Carrino and John Colaneri tackle a suburban kitchen It's desperately in need of a renovation, and the appliances are older than the cousins themselves(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S1E2PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="Food Network">
-    <title lang="en">Country Show Cook Off</title>
-    <desc lang="en">It is day two of top chefs Jun Tanaka and Galton Blackiston's culinary road trip In Wensleydale they enter the savoury tartlets category of the local country show(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S1E7PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Food Network">
-    <title lang="en">Delia Through the Decades</title>
-    <desc lang="en">We look back through the decades to celebrate the wonderful recipes of Delia Smith(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S1E3PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Food Network">
-    <title lang="en">Pioneer Woman</title>
-    <desc lang="en">With the boys away, it's quality time for the cowgirls! There's a beautiful veggie-packed pasta primavera for lunch, before it's time to get back to the real world(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S3E6PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Food Network">
-    <title lang="en">Pioneer Woman</title>
-    <desc lang="en">It's time to saddle up for a big day of horse riding on the ranch Ree's handing out granola bars to the kids as they set off on horse back for a riding lesson with Josh and Uncle Lee(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S3E7PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Food Network">
-    <title lang="en">Barefoot Contessa - Back to Basics</title>
-    <desc lang="en">This is all about comfort food as Ina cooks up modern-day classics, including miniature grilled cheese sandwiches and seafood pot pie This is comfort food for breakfast, dinner and entertaining(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <episode-num system="onscreen">S6E6PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Food Network">
     <title lang="en">Barefoot Contessa - Back to Basics</title>
@@ -20553,22 +19402,6 @@
     <category lang="en">Cooking</category>
     <episode-num system="onscreen">S1E3PPP</episode-num>
   </programme>
-  <programme start="20141007074500 +0100" stop="20141007093000 +0100" channel="Sky Premiere">
-    <title lang="en">The Powder Room</title>
-    <desc lang="en">Two groups' calamitous nights out, told in a series of vignettes from the ladies loo Sheridan Smith and Kate Nash star Flashing images/strong language/mature themes(n)</desc>
-    <date>2013</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007110000 +0100" channel="Sky Premiere">
-    <title lang="en">Moshi Monsters: The Movie</title>
-    <desc lang="en">Katsuma, Poppet and the rest of the Moshi monsters need to act quickly to stop the nasty Dr Strangelove in his devious plan! Bright and musical family animation(n)</desc>
-    <date>2013</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Animation</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007110000 +0100" stop="20141007123000 +0100" channel="Sky Premiere">
     <title lang="en">Willow Creek</title>
     <desc lang="en">A couple on the hunt for Bigfoot get more than they bargained for when they go into the woods to the location of a fabled sighting Found-footage chiller Strong language(n)</desc>
@@ -20772,22 +19605,6 @@
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007074000 +0100" stop="20141007092000 +0100" channel="Sky Showcase">
-    <title lang="en">Hyde Park On Hudson</title>
-    <desc lang="en">Bill Murray stars as wartime president Franklin D Roosevelt, whose unique personality causes cultural problems for the visiting British monarchy Light biographical drama(n)</desc>
-    <date>2012</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007092000 +0100" stop="20141007110500 +0100" channel="Sky Showcase">
-    <title lang="en">Stand Up Guys</title>
-    <desc lang="en">A gang of ageing criminals reunite for one last crazy night in this gangster comedy Starring Al Pacino, Christopher Walken and Alan Arkin(n)</desc>
-    <date>2013</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007110500 +0100" stop="20141007134500 +0100" channel="Sky Showcase">
     <title lang="en">Zero Dark Thirty</title>
     <desc lang="en">CIA officer Jessica Chastain leads the US hunt for Osama Bin Laden in this gripping Oscar-winning drama Strong language/mature themes/violence/flashing images(n)</desc>
@@ -20938,22 +19755,6 @@
     <date>2013</date>
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007070000 +0100" stop="20141007091500 +0100" channel="Sky Greats">
-    <title lang="en">Hellboy</title>
-    <desc lang="en">A bright red, stone-fisted demon from Hell is the FBI's key weapon for fighting Nazis and nasties Ron Perlman has devilish fun as the comic book hero(n)</desc>
-    <date>2004</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007091500 +0100" stop="20141007114000 +0100" channel="Sky Greats">
-    <title lang="en">Batman Begins</title>
-    <desc lang="en">A billionaire playboy begins a one-man crusade to clean up Gotham City's streets Christian Bale takes the role of the Caped Crusader Contains violence(n)</desc>
-    <date>2005</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007114000 +0100" stop="20141007140500 +0100" channel="Sky Greats">
@@ -21118,14 +19919,6 @@
     <date>2003</date>
     <category lang="en">Movies</category>
     <category lang="en">Action</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007084000 +0100" stop="20141007101000 +0100" channel="Sky Disney">
-    <title lang="en">The Jungle Book</title>
-    <desc lang="en">Classic musical animation following the jungle adventures of Mowgli, the young boy raised by wolves, who must embark on a return to human society Family fun from Disney(n)</desc>
-    <date>1967</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Animation</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007101000 +0100" stop="20141007120000 +0100" channel="Sky Disney">
@@ -21311,22 +20104,6 @@
     <category lang="en">Adventure</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007072000 +0100" stop="20141007085500 +0100" channel="Sky Family">
-    <title lang="en">Looney Tunes Back In Action</title>
-    <desc lang="en">Stuntman Brendan Fraser teams up with Bugs Bunny, Daffy Duck and the Looney Tunes gang to topple despicable Acme tycoon Steve Martin and save his captured father(n)</desc>
-    <date>2003</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Family</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007085500 +0100" stop="20141007102000 +0100" channel="Sky Family">
-    <title lang="en">Chimpanzee</title>
-    <desc lang="en">Tim Allen narrates this touching Disney nature documentary following the story of a baby chimpanzee in the wild From the director of The Blue Planet and Planet Earth(n)</desc>
-    <date>2012</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Family</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007102000 +0100" stop="20141007121500 +0100" channel="Sky Family">
     <title lang="en">Peter Pan</title>
     <desc lang="en">Harry Potter's Jason Issacs plays Hook in this captivating adaptation of the classic tale Rachel Hurd-Wood plays Wendy, who is whisked away to Neverland by the Lost Boys(n)</desc>
@@ -21509,14 +20286,6 @@
     <category lang="en">Musical</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007101500 +0100" channel="Sky Action">
-    <title lang="en">After Earth</title>
-    <desc lang="en">In the distant future, father and son Will and Jaden Smith crash land on an abandoned Earth, which has evolved to destroy human life Adventure Violence/flashing images(n)</desc>
-    <date>2013</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Sci-Fi</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007101500 +0100" stop="20141007120000 +0100" channel="Sky Action">
     <title lang="en">Volcano</title>
     <desc lang="en">As a river of molten lava threatens LA, only Tommy Lee Jones and seismologist Anne Heche can save the city from volcanic Armageddon Strong language/flashing images(n)</desc>
@@ -21690,14 +20459,6 @@
     <category lang="en">Action</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007102000 +0100" channel="Sky Comedy">
-    <title lang="en">The Pink Panther Strikes Again</title>
-    <desc lang="en">Comedy which finds Inspector Clouseau  going head-to-head with his crazed former boss, Chief Inspector Dreyfus , who now wants to end the world (98 mins)(n)</desc>
-    <date>1976</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007102000 +0100" stop="20141007121500 +0100" channel="Sky Comedy">
     <title lang="en">Identity Thief</title>
     <desc lang="en">When accountant Jason Bateman's identity is stolen, he sets off to track down obnoxious crook Melissa McCarthy Comedy Contains strong language, sex and flashing images(n)</desc>
@@ -21855,14 +20616,6 @@
     <date>2006</date>
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007082500 +0100" stop="20141007102000 +0100" channel="Sky Thriller">
-    <title lang="en">Children Of Men</title>
-    <desc lang="en">In 2027, humanity faces extinction thanks to worldwide infertility Can Clive Owen keep a miraculously pregnant woman alive? Sci-fi with Julianne Moore and Chiwetel Ejiofor(n)</desc>
-    <date>2006</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Sci-Fi</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007102000 +0100" stop="20141007115500 +0100" channel="Sky Thriller">
@@ -22023,14 +20776,6 @@
     <date>1992</date>
     <category lang="en">Movies</category>
     <category lang="en">Thriller</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007082500 +0100" stop="20141007101500 +0100" channel="Sky DramaRom">
-    <title lang="en">Knife Fight</title>
-    <desc lang="en">Political satire starring Rob Lowe as a slick campaign strategist who'll do whatever it takes to help his clients win Contains strong language, sex and flashing images(n)</desc>
-    <date>2012</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007101500 +0100" stop="20141007123000 +0100" channel="Sky DramaRom">
@@ -22200,29 +20945,6 @@
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007074500 +0100" stop="20141007092500 +0100" channel="Sky SciFiHorror">
-    <title lang="en">Jason X</title>
-    <desc lang="en">A hockey-masked terror is resurrected in space where he wreaks havoc on the crew of an orbiting ship Futuristic horror with David Cronenberg and Hatchet II's Kane Hodder(n)</desc>
-    <date>2001</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007092500 +0100" stop="20141007094500 +0100" channel="Sky SciFiHorror">
-    <title lang="en">The Top Ten Show 2014</title>
-    <desc lang="en">Which movies are doing the best business at home and across the pond? Clips from the UK and US Top Ten show you the best of what's on offer on the big screen(n)</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Factual</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007094500 +0100" stop="20141007113000 +0100" channel="Sky SciFiHorror">
-    <title lang="en">The Scorpion King</title>
-    <desc lang="en">Dwayne Johnson is the fearless warrior out to overthrow an evil warlord in ancient Egypt Epic prequel to The Mummy Returns with swords, sorcery, battles and babes(n)</desc>
-    <date>2002</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007131500 +0100" channel="Sky SciFiHorror">
     <title lang="en">Final Destination 2</title>
     <desc lang="en">Kimberly's hunch about a highway crash saves lives, but Death has some nasty surprises for the survivors Top sequel to the smash hit horror(n)</desc>
@@ -22373,22 +21095,6 @@
     <date>1992</date>
     <category lang="en">Movies</category>
     <category lang="en">Sci-Fi</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007072000 +0100" stop="20141007091000 +0100" channel="Sky Select">
-    <title lang="en">The Monk</title>
-    <desc lang="en">Fire and brimstone thriller starring Vincent Cassel as the pious friar facing eternal damnation when a masked stranger tempts him into hell(n)</desc>
-    <date>2011</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007091000 +0100" stop="20141007110000 +0100" channel="Sky Select">
-    <title lang="en">Little Miss Sunshine</title>
-    <desc lang="en">A dysfunctional family hit the road to take their misfit daughter to a beauty pageant Comedy with Toni Collette and Steve Carell Contains strong language/mature themes(n)</desc>
-    <date>2006</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007125000 +0100" channel="Sky Select">
@@ -22553,14 +21259,6 @@
     <date>1991</date>
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007085000 +0100" stop="20141007103500 +0100" channel="TCM">
-    <title lang="en">Man in the Saddle</title>
-    <desc lang="en">A small rancher swallows his pride when the woman he loves marries a man for money Her jealous husband however begins to harass him and he must defend himself by all means(n)</desc>
-    <date>1951</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Western</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007103500 +0100" stop="20141007125000 +0100" channel="TCM">
@@ -22760,34 +21458,6 @@
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007060000 +0100" stop="20141007090000 +0100" channel="horror channel">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Put the pleasure back into shopping from the comfort of your home and choose from a selection of innovative products(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="horror channel">
-    <title lang="en">The Incredible Hulk</title>
-    <desc lang="en">Smashing superhero drama Aiming to avoid situations that unleashes the Hulk, Banner isolates himself in a remote forest However, an unexpected visitor interrupts his peaceful existence S2, Ep11/23(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Action</category>
-    <episode-num system="onscreen">S2E13PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103500 +0100" channel="horror channel">
-    <title lang="en">Doctor Who: Horror Of Fang Rock</title>
-    <desc lang="en">Classic British sci-fi adventure starring Tom Baker The Doctor and Leela investigate when a comet strikes the sea, an eerie fog rolls in and a lighthouse keeper dies mysteriously Part 1/4(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Sci-Fi</category>
-    <episode-num system="onscreen">S15E1PPP</episode-num>
-  </programme>
-  <programme start="20141007103500 +0100" stop="20141007111000 +0100" channel="horror channel">
-    <title lang="en">Doctor Who: Horror Of Fang Rock</title>
-    <desc lang="en">Classic British sci-fi adventure starring Tom Baker With power to the lighthouse oddly unreliable a ship crashes into the rocks and the Doctor fears for what is to come next Part 2/4(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Sci-Fi</category>
-    <episode-num system="onscreen">S15E2PPP</episode-num>
   </programme>
   <programme start="20141007111000 +0100" stop="20141007130000 +0100" channel="horror channel">
     <title lang="en">The House Next Door</title>
@@ -23053,34 +21723,6 @@
     <date>2012</date>
     <category lang="en">Movies</category>
     <category lang="en">Horror</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Sky Sports 1">
-    <title lang="en">Soccer A M - The Best Bits</title>
-    <desc lang="en">Helen Chamberlain and Max Rushden are joined by former Aston Villa striker John Carew, actor Colin Salmon, and drum'n'bass duo Cameron Edwards and Joe Lenzie, aka Sigma(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky Sports 1">
-    <title lang="en">Barclays Premier League Review</title>
-    <desc lang="en">A comprehensive round-up of all the weekend's action in the Barclays Premier League, including analysis of major incidents and reaction from key players and managers(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Sky Sports 1">
-    <title lang="en">SPFL Round Up</title>
-    <desc lang="en">A look back on all the goals and highlights from the latest round of games in the Scottish Professional Football League Plus, the reaction from managers and players(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Sky Sports 1">
-    <title lang="en">The Fantasy Football Club Hlts</title>
-    <desc lang="en">This week, former Chelsea and Stoke City defender Michael Duberry joins Fenners and Merse in the studio Plus, ex-Manchester United and England star Bryan Robson names his #One2Eleven(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Sky Sports 1">
@@ -23396,20 +22038,6 @@
     <desc lang="en">Cheltenham Town take on Bristol City at Whaddon Road in the second round of the Johnstone's Paint Trophy Cheltenham claimed a 2-0 win over Oxford United in the first round(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007093000 +0100" channel="Sky Sports 2">
-    <title lang="en">Super League Fulltime</title>
-    <desc lang="en">Bill Arthur is joined by Phil Clarke and Tony Rea to look back on week three of the Super League play-offs Plus, highlights of the Championship and Championship 1 Grand Finals(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007113000 +0100" channel="Sky Sports 2">
-    <title lang="en">Elite League Speedway</title>
-    <desc lang="en">Swindon Robins play host to Coventry Bees at the Abbey Stadium and Poole Pirates take on King's Lynn Stars at The Stadium in the second leg of the Elite League semi-finals(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Sky Sports 2">
@@ -23880,20 +22508,6 @@
     <category lang="en">Motor Sport</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007060000 +0100" stop="20141007110000 +0100" channel="Sky Sports 4">
-    <title lang="en">World Grand Prix Darts</title>
-    <desc lang="en">Day one of the 2014 World Grand Prix from Dublin's Citywest Hotel Matches include Adrian Lewis v Daryl Gurney, Gary Anderson v Brendan Dolan and Phil Taylor v Steve Beaton(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Sky Sports 4">
-    <title lang="en">Racing News</title>
-    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Sky Sports 4">
     <title lang="en">Terrain Unleashed</title>
     <desc lang="en">A look at some of the best mountain bikers and BMX riders from around the world Features spectacular highlights of freestyle riding by the sport's elite(n)</desc>
@@ -23908,24 +22522,17 @@
     <category lang="en">Golf</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007130000 +0100" stop="20141007153000 +0100" channel="Sky Sports 4">
+  <programme start="20141007130000 +0100" stop="20141007160000 +0100" channel="Sky Sports 4">
     <title lang="en">National Badminton League</title>
     <desc lang="en">MK Badminton host Surrey Smashers at Centre:MK in the opening round of the National Badminton League The NBL is the first ever professional national badminton league in the UK(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007153000 +0100" stop="20141007163000 +0100" channel="Sky Sports 4">
+  <programme start="20141007160000 +0100" stop="20141007170000 +0100" channel="Sky Sports 4">
     <title lang="en">Trilby Tour: Hanbury Manor</title>
     <desc lang="en">The 2014 Trilby Tour begins with the Championship of Hertfordshire Founded in 2007, this multi-event amateur golf tournament is contested under professional conditions(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007163000 +0100" stop="20141007170000 +0100" channel="Sky Sports 4">
-    <title lang="en">Absolute Match Fishing 2014</title>
-    <desc lang="en">England international Lee Kerry takes on former ladies' world champion Emma Pickering at Woodlands View They also share some top tips and demonstrate the importance of late margin fish(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Fishing</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007170000 +0100" stop="20141007180000 +0100" channel="Sky Sports 4">
@@ -25665,34 +24272,6 @@
     <desc lang="en">Live coverage of this afternoon's meetings. Horse racing.(n)</desc>
     <category lang="en">Horse racing</category>
   </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="BoxNation">
-    <title lang="en">Welsh Dragons- Calzaghe v Kessler</title>
-    <desc lang="en">Calzaghe triumphs in a fight against fellow World Champion Mikkel Kessler in his final World Title fight at Super-middleweight(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="BoxNation">
-    <title lang="en">Classic Fights</title>
-    <desc lang="en">Oscar De La Hoya vs Shane Mosley from 2000(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-    <episode-num system="onscreen">PP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="BoxNation">
-    <title lang="en">Ring Masters - Frank Bruno</title>
-    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the finest hour of one of Britain's most popular sportsmen of all time, Frank Bruno, when he made his 4th and final challenge for the Heavyweight title(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="BoxNation">
-    <title lang="en">Black Cab Box Chat</title>
-    <desc lang="en">Georgie Kean takes a spin round town in the world famous Hackney Cab(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-    <episode-num system="onscreen">PP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007140000 +0100" channel="BoxNation">
     <title lang="en">Freeview: Teleshopping</title>
     <desc lang="en">Teleshopping(n)</desc>
@@ -25875,33 +24454,9 @@
     <category lang="en">Boxing</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Sky Spts News">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers Text your views to 84408(n)</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky Spts News">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers Text your views to 84408(n)</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Sky Spts News">
-    <title lang="en">The Morning View</title>
-    <desc lang="en">Breaking news, talking points and analysis of the major sporting issues of the day Text your views to 84408(n)</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Sky Spts News">
-    <title lang="en">The Morning View</title>
-    <desc lang="en">Breaking news, talking points and analysis of the major sporting issues of the day Text your views to 84408(n)</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Sky Spts News">
     <title lang="en">Sportswomen</title>
-    <desc lang="en">A look at all the biggest news and talking points in the world of women's sport Includes big-name guests and behind-the-scenes features Get involved @SkySportsNews #Sportswomen(n)</desc>
+    <desc lang="en">Jane Dougall presents features on Jo Pavey, Dame Sarah Storey, Joanna Rowsell and Paula Radcliffe, and announces the Sportswoman of the Month Get involved @SkySportsNews #Sportswomen(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
@@ -26119,27 +24674,6 @@
     <title lang="en">Through The Night</title>
     <desc lang="en">A comprehensive review of all the night's football news, plus a look ahead to the morning headlines and a full round-up of the rest of the sports news(n)</desc>
     <category lang="en">Sports</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Sky Sports F1">
-    <title lang="en">Your Home Of Formula One</title>
-    <desc lang="en">Sky Sports F1 is a channel dedicated entirely to Formula 1 and will be the only place to see every race of the F1 season live and uninterrupted(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky Sports F1">
-    <title lang="en">Your Home Of Formula One</title>
-    <desc lang="en">Sky Sports F1 is a channel dedicated entirely to Formula 1 and will be the only place to see every race of the F1 season live and uninterrupted(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Sky Sports F1">
-    <title lang="en">Your Home Of Formula One</title>
-    <desc lang="en">Sky Sports F1 is a channel dedicated entirely to Formula 1 and will be the only place to see every race of the F1 season live and uninterrupted(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Sky Sports F1">
@@ -26406,34 +24940,6 @@
     <desc lang="en">All the biggest stories and talking points ahead of the weekend's Russian Grand Prix(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007090000 +0100" channel="Sky Sports 1 HD">
-    <title lang="en">Soccer A M - The Best Bits</title>
-    <desc lang="en">Helen Chamberlain and Max Rushden are joined by former Aston Villa striker John Carew, actor Colin Salmon, and drum'n'bass duo Cameron Edwards and Joe Lenzie, aka Sigma(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Sky Sports 1 HD">
-    <title lang="en">Barclays Premier League Review</title>
-    <desc lang="en">A comprehensive round-up of all the weekend's action in the Barclays Premier League, including analysis of major incidents and reaction from key players and managers(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Sky Sports 1 HD">
-    <title lang="en">SPFL Round Up</title>
-    <desc lang="en">A look back on all the goals and highlights from the latest round of games in the Scottish Professional Football League Plus, the reaction from managers and players(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Sky Sports 1 HD">
-    <title lang="en">The Fantasy Football Club Hlts</title>
-    <desc lang="en">This week, former Chelsea and Stoke City defender Michael Duberry joins Fenners and Merse in the studio Plus, ex-Manchester United and England star Bryan Robson names his #One2Eleven(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007120000 +0100" channel="Sky Sports 1 HD">
@@ -26749,20 +25255,6 @@
     <desc lang="en">Cheltenham Town take on Bristol City at Whaddon Road in the second round of the Johnstone's Paint Trophy Cheltenham claimed a 2-0 win over Oxford United in the first round(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007083000 +0100" stop="20141007093000 +0100" channel="Sky Sports 2 HD">
-    <title lang="en">Super League Fulltime</title>
-    <desc lang="en">Bill Arthur is joined by Phil Clarke and Tony Rea to look back on week three of the Super League play-offs Plus, highlights of the Championship and Championship 1 Grand Finals(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007113000 +0100" channel="Sky Sports 2 HD">
-    <title lang="en">Elite League Speedway</title>
-    <desc lang="en">Swindon Robins play host to Coventry Bees at the Abbey Stadium and Poole Pirates take on King's Lynn Stars at The Stadium in the second leg of the Elite League semi-finals(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Sky Sports 2 HD">
@@ -27233,27 +25725,6 @@
     <category lang="en">Motor Sport</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007093000 +0100" channel="Eurosport">
-    <title lang="en">ITU World Triathlon Series</title>
-    <desc lang="en">A look back at the thrilling 2014 ITU World Series which saw defending champion Javier Gomez go head-to-head with Britain's Jonny and Alistair Brownlee(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Eurosport">
-    <title lang="en">Castle Howard Triathlon</title>
-    <desc lang="en">The final round of the Castle Triathlon Series took place in Yorkshire, on a course that featured the stunning sights of Castle Howard's house and gardens(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007113000 +0100" channel="Eurosport">
-    <title lang="en">US Open Tennis</title>
-    <desc lang="en">Action from the women's final at Flushing Meadows as Serena Williams took on Caroline Wozniacki Williams was aiming to win her 18th Grand Slam title(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007204500 +0100" channel="Eurosport">
     <title lang="en">WTA Tennis</title>
     <desc lang="en">The opening round of the Generali Ladies Linz, held at the 6,000-person capacity TipsArena Linz Previous winners of this tournament include Angelique Kerber and Victoria Azarenka(n)</desc>
@@ -27432,19 +25903,6 @@
     <desc lang="en">Magny-Cours hosted the penultimate round of 2014 as Tom Sykes aimed to tighten his grip on the championship title Sykes led the standings by 31 points ahead of Sylvain Guintoli(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007084500 +0100" stop="20141007100000 +0100" channel="Eurosport 2">
-    <title lang="en">Cycling: Tour of Lombardy</title>
-    <desc lang="en">This challenging 248km race - the final Monument of the year - attracted a star-studded field including Alberto Contador, Cadel Evans and new world champion Michal Kwiatkowski(n)</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="Eurosport 2">
-    <title lang="en">Ski Jumping: Summer Grand Prix</title>
-    <desc lang="en">Coverage from the FIS Summer Grand Prix round in Klingenthal, Germany(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007110000 +0100" stop="20141007130000 +0100" channel="Eurosport 2">
@@ -27664,27 +26122,6 @@
     <category lang="en">Motor Sport</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007093000 +0100" channel="Eurosport HD">
-    <title lang="en">ITU World Triathlon Series</title>
-    <desc lang="en">A look back at the thrilling 2014 ITU World Series which saw defending champion Javier Gomez go head-to-head with Britain's Jonny and Alistair Brownlee(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="Eurosport HD">
-    <title lang="en">Castle Howard Triathlon</title>
-    <desc lang="en">The final round of the Castle Triathlon Series took place in Yorkshire, on a course that featured the stunning sights of Castle Howard's house and gardens(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007113000 +0100" channel="Eurosport HD">
-    <title lang="en">US Open Tennis</title>
-    <desc lang="en">Action from the women's final at Flushing Meadows as Serena Williams took on Caroline Wozniacki Williams was aiming to win her 18th Grand Slam title(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007204500 +0100" channel="Eurosport HD">
     <title lang="en">WTA Tennis</title>
     <desc lang="en">The opening round of the Generali Ladies Linz, held at the 6,000-person capacity TipsArena Linz Previous winners of this tournament include Angelique Kerber and Victoria Azarenka(n)</desc>
@@ -27855,47 +26292,6 @@
     <desc lang="en">Magny-Cours hosted the penultimate round of 2014 as Tom Sykes aimed to tighten his grip on the championship title Sykes led the standings by 31 points ahead of Sylvain Guintoli(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007074500 +0100" stop="20141007091500 +0100" channel="BT Sport 1">
-    <title lang="en">Cruzeiro v Internacional</title>
-    <desc lang="en">Brasileiro Serie A from the Mineirao, Belo Horizonte Campeonato leaders Cruzeiro host one of the teams in the chasing pack, Internacional(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007091500 +0100" stop="20141007094500 +0100" channel="BT Sport 1">
-    <title lang="en">SPFL Highlights</title>
-    <desc lang="en">The best of the recent action from the Scottish Professional Football League(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007094500 +0100" stop="20141007100000 +0100" channel="BT Sport 1">
-    <title lang="en">Global Goals</title>
-    <desc lang="en">With European action including Robben's goal for Bayern Munich, a stunning finish for Fiorentina and a last-gasp winner for Marseille Plus, the best goals from Brazil and MLS(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007101500 +0100" channel="BT Sport 1">
-    <title lang="en">SportsHUB</title>
-    <desc lang="en">Reshmin Chowdhury has a comprehensive round-up of all the latest sports news(n)</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007101500 +0100" stop="20141007111500 +0100" channel="BT Sport 1">
-    <title lang="en">Barclays Premier League Review</title>
-    <desc lang="en">A look at the best of the recent action from the Barclays Premier League(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007111500 +0100" stop="20141007114500 +0100" channel="BT Sport 1">
-    <title lang="en">Global Goals</title>
-    <desc lang="en">With European action including Robben's goal for Bayern Munich, a stunning finish for Fiorentina and a last-gasp winner for Marseille Plus, the best goals from Brazil and MLS(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007114500 +0100" stop="20141007120000 +0100" channel="BT Sport 1">
@@ -28241,27 +26637,6 @@
     <category lang="en">Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007083000 +0100" stop="20141007093000 +0100" channel="BT Sport 2">
-    <title lang="en">WRC Review</title>
-    <desc lang="en">A review of Rallye de France in Alsace, round eleven of the World Rally Championship Defending champion Sebastien Ogier won here last year to guarantee the title(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007103000 +0100" channel="BT Sport 2">
-    <title lang="en">MotoGP Classics</title>
-    <desc lang="en">Classic MotoGP Championship action from the archives of the 1995 Japan GP from Suzuka, where the unpredictable conditions had a dramatic effect on the race(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007113000 +0100" channel="BT Sport 2">
-    <title lang="en">MotoGP Classics</title>
-    <desc lang="en">Classic MotoGP Championship action from the archives The 1998 Japan GP in Suzuka was the stage for an impressive debut in the premier class from Max Biaggi(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007123000 +0100" channel="BT Sport 2">
     <title lang="en">Classic Premier League</title>
     <desc lang="en">A look at the greatest goals ever scored in the Barclays Premier League(n)</desc>
@@ -28491,41 +26866,6 @@
     <category lang="en">Rugby</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007090000 +0100" stop="20141007091500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007091500 +0100" stop="20141007100000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007101500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007101500 +0100" stop="20141007110000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007111500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007111500 +0100" stop="20141007120000 +0100" channel="At The Races">
     <title lang="en">King For A Day - Chris Wright</title>
     <desc lang="en">Leading owner Chris Wright tells John McCririck what he would do if he ran racing(n)</desc>
@@ -28626,8 +26966,7 @@
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141008111500 +0100" stop="20141008120000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing(n)</desc>
+    <title lang="en">The Big Interview</title>
     <category lang="en">Sports</category>
     <category lang="en">Racing</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -28663,23 +27002,16 @@
   </programme>
   <programme start="20141008180000 +0100" stop="20141008220000 +0100" channel="At The Races">
     <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing(n)</desc>
+    <desc lang="en">Live US racing from Colonial Downs , Belmont, Keeneland, Delaware, Indiana Grand, Hawthorne, Harrington, Penn National, Woodbine , Mountaineer &amp; Charles Town(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Racing</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141008220000 +0100" stop="20141009020000 +0100" channel="At The Races">
     <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing(n)</desc>
+    <desc lang="en">Live US racing from Colonial Downs , Belmont, Keeneland, Delaware, Indiana Grand, Hawthorne, Harrington, Penn National, Woodbine , Mountaineer &amp; Charles Town(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Racing</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007060000 +0100" stop="20141007090000 +0100" channel="ESPN UK">
-    <title lang="en">Arizona @ Oregon - CFB</title>
-    <desc lang="en">Arizona's Wildcats travel to Autzen Stadium in Eugene, Oregon, to take their best shot at dethroning one of the top-ranked teams, the Ducks(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007090000 +0100" stop="20141007123000 +0100" channel="ESPN UK">
@@ -28703,11 +27035,18 @@
     <category lang="en">Baseball</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007183000 +0100" stop="20141007193000 +0100" channel="ESPN UK">
+  <programme start="20141007183000 +0100" stop="20141007191500 +0100" channel="ESPN UK">
     <title lang="en">Baseball Tonight</title>
     <desc lang="en">Your one stop for MLB news Expert analysts look at the best plays, highlights and biggest stories surrounding Major League Baseball(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
+    <episode-num system="onscreen">PPP</episode-num>
+  </programme>
+  <programme start="20141007191500 +0100" stop="20141007193000 +0100" channel="ESPN UK">
+    <title lang="en">ESPN Kicks</title>
+    <desc lang="en">A comprehensive review of the very best of the week's sporting action from around the globe(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007193000 +0100" stop="20141007203000 +0100" channel="ESPN UK">
@@ -28836,34 +27175,6 @@
     <desc lang="en">The Cornhuskers battle Big Ten rivals the Spartans in East Lansing, Michigan The Cornhuskers have a poor record against their opponents, winning only one of eight games(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">American Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007090000 +0100" stop="20141007093000 +0100" channel="MUTV">
-    <title lang="en">The United Archives 2012/13...</title>
-    <desc lang="en">United v Liverpool United welcomed their fierce rivals to Old Trafford with both sides desperate for bragging rights and vital league points(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007093000 +0100" stop="20141007100000 +0100" channel="MUTV">
-    <title lang="en">The United Archives 2012/13...</title>
-    <desc lang="en">United v Southampton The Saints had given Sir Alex &amp; United an almighty scare back in September Could they spring a surprise at the Theatre of Dreams?(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007110000 +0100" channel="MUTV">
-    <title lang="en">The Paddy Crerand Show</title>
-    <desc lang="en">Paddy is in the studio to discuss all the latest United news, including a look back to Sunday's 2-1 win against Everton(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="MUTV">
-    <title lang="en">Jonny Evans Meets Paddy</title>
-    <desc lang="en">The United star discusses his life and football career with MUTV's own inimitable presenter, Paddy Crerand(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007113000 +0100" stop="20141007130000 +0100" channel="MUTV">
@@ -29216,34 +27527,6 @@
     <category lang="en">Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
-  <programme start="20141007090000 +0100" stop="20141007100000 +0100" channel="Extreme Sports">
-    <title lang="en">Mantracker</title>
-    <desc lang="en">Two friends are let loose in the Canadian wilderness with a map and end location Can they reach the finish line before expert tracker Terry Grant closes in?(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007100000 +0100" stop="20141007103000 +0100" channel="Extreme Sports">
-    <title lang="en">Freeride World Tour</title>
-    <desc lang="en">All the action from the Freeride World Tour 2014, where daring skiers and riders are filmed hitting the slopes in search of the ultimate thrill(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007103000 +0100" stop="20141007110000 +0100" channel="Extreme Sports">
-    <title lang="en">Freeride World Tour</title>
-    <desc lang="en">All the action from the Freeride World Tour 2014, where daring skiers and riders are filmed hitting the slopes in search of the ultimate thrill(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007110000 +0100" stop="20141007113000 +0100" channel="Extreme Sports">
-    <title lang="en">X Games - Slammed And Stomped</title>
-    <desc lang="en">All the wipeouts, crashes and best moments from Summer and Winter X Games throughout the years(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
   <programme start="20141007113000 +0100" stop="20141007120000 +0100" channel="Extreme Sports">
     <title lang="en">X Games - Slammed And Stomped</title>
     <desc lang="en">All the wipeouts, crashes and best moments from Summer and Winter X Games throughout the years(n)</desc>
@@ -29592,13 +27875,6 @@
     <desc lang="en">Two friends are let loose in the Canadian wilderness with a map and end location Can they reach the finish line before expert tracker Terry Grant closes in?(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Extreme</category>
-    <episode-num system="onscreen">PPP</episode-num>
-  </programme>
-  <programme start="20141007080000 +0100" stop="20141007100000 +0100" channel="Chelsea TV">
-    <title lang="en">Chelsea v Leicester - Prem 14/15</title>
-    <desc lang="en">Chelsea host Leicester City at Stamford Bridge in this Barclays Premier League clash(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
     <episode-num system="onscreen">PPP</episode-num>
   </programme>
   <programme start="20141007100000 +0100" stop="20141007120000 +0100" channel="Chelsea TV">
